@@ -1,3 +1,0 @@
-[submodule "QUnit"]
-	path = QUnit
-	url = git://github.com/jquery/qunit.git
