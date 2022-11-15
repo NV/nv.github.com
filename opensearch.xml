@@ -4,5 +4,6 @@
 <InputEncoding>UTF-8</InputEncoding>
 <Image width="16" height="16" type="image/x-icon">https://github.com/favicon.ico</Image>
 <Url type="text/html" method="get" template="https://nv.github.io/?q={searchTerms}"/>
+<Url type="application/json" rel="suggestions" template="https://www.google.com/complete/search?q={searchTerms}&amp;client=chrome-omni"/>
 <moz:SearchForm>https://nv.github.io/</moz:SearchForm>
 </OpenSearchDescription>
